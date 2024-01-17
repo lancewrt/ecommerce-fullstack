@@ -1,0 +1,80 @@
+.ov_bg{
+    background-color: rgb(6, 15, 8) !important;
+
+    position: fixed;
+    margin: auto;
+    top: 0;
+    left: 0;
+}
+.ov_cont{
+    background-color: #242924 !important;
+    border-radius: 10px;
+    color: white;
+    justify-content: center;
+    margin: auto;
+    position: fixed;
+    height: 60vh;
+    width: 60vh;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: auto;
+}
+.ov_cont h2{
+    color: #4fce57;
+}
+.ov_contCO{
+    background-color: #242924 !important;
+    border-radius: 10px;
+    color: white;
+    justify-content: center;
+    margin: auto;
+    position: fixed;
+    height: 70vh;
+    width: 70vh;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: auto;
+}
+.ov_contCO h2{
+    color: #4fce57;
+}
+.edit-overlay{
+    background-color: #242924 !important;
+    border-radius: 10px;
+    color: white;
+    justify-content: center;
+    margin: auto;
+    position: fixed;
+    height: 70vh;
+    width: 70vh;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: auto;
+}
+.adminov_contCO{
+    background-color: #242924 !important;
+    border-radius: 10px;
+    color: white;
+    justify-content: center;
+    margin: auto;
+    position: fixed;
+    height: 85vh;
+    width: 70vh;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: auto;
+}
+.adminov_contCO h2{
+    color: #4fce57;
+}
+
+
+  

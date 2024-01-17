@@ -1,0 +1,191 @@
+header{
+    min-height: 90vh; 
+    background: url(./pages/images/grocer.jpg) center/cover no-repeat fixed, linear-gradient(rgba(0, 0, 0, 0.4),rgba(0,0,0, 0)); 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: stretch;
+}
+.header{
+    min-height: 90vh; 
+    background: linear-gradient(rgba(0, 0, 0, 0.4),rgba(0,0,0, 0)); 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: stretch;
+}
+.texthover:hover{
+    color: #7AE582  !important;
+}
+.navbarheight{
+    height: 50vh
+}
+
+.social-links{
+    display: flex;
+    justify-content: center;
+
+}
+.social-links a{
+    border: 2px solid white;
+    color: white;
+    display: flex;
+    width: 30px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin: 0 0.6rem;
+}
+.textfield input{
+    width: 20vw;
+}
+#formcont{
+    background-color: beige;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 95%;
+    padding: 2vw 5vw 2vw 5vw;
+    border-radius: 10px;
+    display: flex;
+    height: 105vh;
+}
+#formcont2{
+    background-color: beige;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 95%;
+    padding: 2vw 5vw 2vw 5vw;
+    border-radius: 10px;
+    display: flex;
+}
+.formcont{
+    height: 70vh;
+    background-color: beige;
+    margin: auto;
+    width: 100%;
+    display: flex;
+}
+.formcont img{
+    filter: drop-shadow(5px 5px 5px #222);
+    margin: auto;
+}
+h2 {
+    text-align: left;
+    display: flex;
+    padding-bottom: 10px;
+
+}
+#loginform{
+    display: flex;
+    margin: auto;
+    background-color: beige;
+    align-self: center;
+    width: 60vh;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 55vh;
+    margin-top: 10vh;
+}
+
+.tacbox {
+    display:block;
+    padding: .5em;
+    border: 3px solid #ddd;
+    background-color: #eee;
+    max-width: 800px;
+}
+  
+.tacbox input {
+    height: 1em;
+    width: 1em;
+    vertical-align: middle;
+}
+.menu{
+    justify-content: center;
+    height: 5vh;
+    background-color: #4fce57;
+    width: 100%;
+    margin: auto;
+}
+.menulist{
+    justify-content: center;
+    gap: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
+}
+.carousel-inner img{
+    width: 90%
+}
+.itemcont{
+    background-color: white, linear-gradient(rgba(0, 0, 0, 0.4),rgba(0,0,0, 0));
+    border-radius: 10px;
+    margin: auto; 
+}
+.food{
+    background-color: white;
+    border-radius: 10px;
+    width: 90%;
+    height: 100%;
+    filter: drop-shadow(2px 2px 5px #222); 
+    align-items: center;
+    
+}
+.food p{
+    height: 30px;
+    text-align: center;
+}
+.addbut{
+    justify-self: center;
+    display: flex;
+    text-align: center;
+}
+.prod_img{
+    height: 100px;
+    margin: auto;
+    display: flex;
+    padding-top: 20px;
+    
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.contbot{
+    height: 11vh;
+}
+.contbot span{
+    color: #4FCE57;
+}
+.adminmenulist{
+    justify-content: center;
+    gap: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
+}
+.adminfood{
+    background-color: white;
+    border-radius: 3px;
+    width: 90%;
+    height: 100%;
+    filter: drop-shadow(2px 2px 5px #222); 
+    align-items: center;
+}
+.adminprod_img{
+    height: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.adminfood span{
+    height: 30px;
+    text-align: center;
+}
